@@ -1,5 +1,4 @@
-requests
-beautifulsoup4
-pytesseract
-Pillow
-python-dotenv
+    requests
+    beautifulsoup4
+    pytesseract
+    Pillow
